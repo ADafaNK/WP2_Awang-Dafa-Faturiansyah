@@ -14,4 +14,3 @@ class latihan1 extends CI_Controller
         $this->load->view('view-latihan', $data);
     }
 }
-dafa
