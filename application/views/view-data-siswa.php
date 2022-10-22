@@ -73,7 +73,7 @@
             </tr>
             <tr>
                 <td colspan="3" align="center">
-                    <a href="<?= base_url('datasiswa'); ?>">Kembali</a>
+                    <a href="<?= base_url('dafa'); ?>">Kembali</a>
                 </td>
             </tr>
         </table>
