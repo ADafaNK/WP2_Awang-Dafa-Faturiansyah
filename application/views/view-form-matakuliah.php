@@ -26,6 +26,7 @@
                         <input type="text" name="kode" id="kode">
                     </td>
                 </tr>
+                <?= form_error('nama'); ?>
                 <tr>
                     <th>Nama MTK</th>
                     <td>:</td>
@@ -33,6 +34,7 @@
                         <input t2ype="text" name="nama" id="nama">
                     </td>
                 </tr>
+                <?= form_error('nama'); ?>
                 <tr>
                     <th>SKS</th>
                     <td>:</td>

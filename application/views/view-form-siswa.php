@@ -5,7 +5,7 @@
 </head>
 <body>
     <center>
-        <form action="<?= base_url('dafa/cetak'); ?>"method="post">
+        <form action="<?= base_url('datasiswa/cetak'); ?>"method="post">
             <table>
                 <tr>
                     <th colspan="3">
